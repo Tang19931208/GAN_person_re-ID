@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time     :   2018/12/10 17:00
-# @Author   :   yulin
-# @Site     :
-# @File     :   K-means.py
-
 from numpy import *
 import matplotlib.pyplot as plt
 
